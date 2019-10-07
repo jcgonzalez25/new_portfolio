@@ -1,0 +1,16 @@
+---
+date: '3'
+title: 'Advising System'
+cover: './advising.png'
+github: 'https://github.com/jcgonzalez25/advising_app'
+external: 'https://octoprofile.now.sh'
+tech:
+  - React.js
+  - Redux.js
+  - MongoDb
+  - Express
+  - Node
+show: 'true'
+---
+
+System used to communicate between Indiana States Computer Science Instructors and Potential Computer Science students. More Backend concentrated, implenting security features as well as scalability.

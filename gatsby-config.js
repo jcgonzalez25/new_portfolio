@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'JC Gonzalez',
+        short_name: 'JC Gonzalezß',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,
@@ -25,7 +25,7 @@ module.exports = {
         icon: 'src/images/logo.png',
       },
     },
-    `gatsby-plugin-offline`,
+
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -49,7 +49,7 @@ module.exports = {
             options: {
               maxWidth: 1100,
               quality: 90,
-              linkImagesToOriginal: true,
+              linkImagesToOriginal: false,
             },
           },
         ],

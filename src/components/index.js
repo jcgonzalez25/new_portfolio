@@ -12,7 +12,6 @@ import Menu from './menu';
 import Nav from './nav';
 import Projects from './projects';
 import Social from './social';
-
 export {
   About,
   Contact,

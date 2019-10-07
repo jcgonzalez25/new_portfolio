@@ -2,18 +2,24 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
+  - Web Technologies JavaScript(ES6+) HTML CSS
+  - Bootstrap
   - React
-  - Vue
-  - Node.js
-  - Express
-  - GraphQL
-  - NativeScript
+  - Redux
+  - Node.js(express)
+  - C# specifically Asp.net MVC
+  - Python(numpy,pandas)
+  - Mysql
+  - MongoDB
+  - Linux/Unix (grep,sed,awk,shell scripting)
+  - Object Oriented Programming
+  - Procedural Programming
+  - git version control
+  - Networking(TCP,IP)
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Welcome, my name is JC Gonzalez, a software engineer based in Carbondale, IL. A graduate from [Indiana State University](https://cs.indstate.edu/), with a B.A. and M.S. in Computer Science.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Working on numerous projects ive learned to have a new respect for software development. A respect that has led me to build the right way. Passionate about clean code, collaborating effectivley, and designing effeciently, Is a result of such respect.
 
 Here's a few technologies I've been working with recently:
