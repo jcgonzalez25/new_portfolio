@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { StaticQuery, graphql } from 'gatsby';
 import PropTypes from 'prop-types';
-import { Head, Loader, Nav, Social, Email, Footer } from '@components';
+import { Head, SpaceManLoader, Nav, Social, Email, Footer } from '@components';
 import styled from 'styled-components';
 import { GlobalStyle, theme } from '@styles';
 const { colors, fontSizes, fonts } = theme;
@@ -74,14 +74,10 @@ const Layout = ({ children }) => {
       render={({ site }) => (
         <div id="root">
           <Head metadata={site.siteMetadata} />
-
           <GlobalStyle />
-
           <SkipToContent href="#content">Skip to Content</SkipToContent>
-
-          {isLoading ? (
-            <Loader finishLoading={() => setIsLoading(false)} />
-          ) : (
+          <SpaceManLoader finishLoading={() => setIsLoading(false)} />
+          {isLoading === false ? (
             <div className="container">
               <Nav />
               <Social />
@@ -89,7 +85,7 @@ const Layout = ({ children }) => {
               {children}
               <Footer githubInfo={githubInfo} />
             </div>
-          )}
+          ) : null}
         </div>
       )}
     />

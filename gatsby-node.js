@@ -21,6 +21,10 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
             test: /animejs/,
             use: loaders.null(),
           },
+          {
+            test: /gsap/,
+            use: loaders.null(),
+          },
         ],
       },
     });

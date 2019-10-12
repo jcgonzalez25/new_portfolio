@@ -1,4 +1,4 @@
-import IconLoader from './loader';
+import SpaceMan from './SpaceMan';
 import IconLogo from './logo';
 import IconGithub from './github';
 import IconLinkedin from './linkedin';
@@ -13,7 +13,7 @@ import IconFork from './fork';
 import FormattedIcon from './formattedIcon';
 
 export {
-  IconLoader,
+  SpaceMan,
   IconLogo,
   IconGithub,
   IconLinkedin,

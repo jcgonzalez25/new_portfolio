@@ -2,8 +2,8 @@
 date: '2018-10-01'
 title: 'Therapy Management System'
 image: ''
-github: 'https://github.com/bchiang7/bchiang7.github.io'
-external: 'https://bchiang7.github.io/v3/'
+github: 'https://github.com/jcgonzalez25/alkprog'
+external: ''
 tech:
   - React
   - Mysql

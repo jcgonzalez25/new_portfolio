@@ -3,7 +3,7 @@ date: '3'
 title: 'Advising System'
 cover: './advising.png'
 github: 'https://github.com/jcgonzalez25/advising_app'
-external: 'https://octoprofile.now.sh'
+external: 'https://isuadvising.herokuapp.com'
 tech:
   - React.js
   - Redux.js

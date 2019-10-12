@@ -1,6 +1,6 @@
 ---
 date: '2017-04-03'
-title: 'Starbucks Locator'
+title: 'Change'
 image: ''
 github: 'https://github.com/jcgonzalez25/Starbucks-Application'
 external: 'https://github.com/jcgonzalez25/Starbucks-Application'

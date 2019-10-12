@@ -2,8 +2,8 @@
 date: '1'
 title: 'Web Mac OS Terminal Clone'
 cover: './term.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+github: 'https://github.com/jcgonzalez25/mac_terminal'
+external: 'https://macterm.herokuapp.com'
 tech:
   - React.js
   - Html

@@ -2,7 +2,7 @@
 date: '2017-06-22'
 title: 'Matrix Bash Animation'
 image: ''
-github: 'https://github.com/bchiang7/CS3200-Project'
+github: 'https://github.com/jcgonzalez25/matrix-background'
 external: ''
 tech:
   - Bash

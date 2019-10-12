@@ -2,13 +2,12 @@
 date: '2019-01-01'
 title: 'Number Recoginition Web'
 image: ''
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+github: ''
+external: 'https://numberguesser.herokuapp.com'
 tech:
-  - tensorflow
   - machine learning
   - js
 show: 'true'
 ---
 
-Using MNIST, I integrated a number recognizer based on users drawing. Utilizing HTML5 canvas.
+Extending my python machine learning number set to be handled by the web using the canvas api. Application allows you to draw a number yourself and the program performs a guess.

@@ -3,7 +3,7 @@ date: '2'
 title: 'Company Propietary System'
 cover: './demo.png'
 github: ''
-external: ''
+external: 'https://shrouded-depths-75061.herokuapp.com'
 tech:
   - React
   - Node.js

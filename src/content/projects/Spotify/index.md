@@ -2,8 +2,8 @@
 date: '2017-08-01'
 title: 'Spotify U.I.'
 image: ''
-github: ''
-external: 'https://github.com/jcgonzalez25/spotify_ui'
+github: 'https://github.com/jcgonzalez25/spotify_ui'
+external: ''
 tech:
   - Bootstrap
   - javascript

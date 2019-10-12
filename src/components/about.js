@@ -110,7 +110,6 @@ const About = ({ data }) => {
   const { title, skills, avatar } = frontmatter;
   const revealContainer = useRef(null);
   useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
-
   return (
     <AboutContainer id="about" ref={revealContainer}>
       <Heading>{title}</Heading>

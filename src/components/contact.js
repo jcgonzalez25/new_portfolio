@@ -48,7 +48,6 @@ const Contact = ({ data }) => {
   const { title } = frontmatter;
   const revealContainer = useRef(null);
   useEffect(() => sr.reveal(revealContainer.current, srConfig()), []);
-
   return (
     <ContactContainer id="contact" ref={revealContainer}>
       <GreenHeading>What&apos;s Next?</GreenHeading>

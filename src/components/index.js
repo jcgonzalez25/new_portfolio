@@ -7,7 +7,7 @@ import Head from './head';
 import Hero from './hero';
 import Jobs from './jobs';
 import Layout from './layout';
-import Loader from './loader';
+import SpaceManLoader from './SpaceManLoader';
 import Menu from './menu';
 import Nav from './nav';
 import Projects from './projects';
@@ -22,7 +22,7 @@ export {
   Hero,
   Jobs,
   Layout,
-  Loader,
+  SpaceManLoader,
   Menu,
   Nav,
   Projects,
