@@ -1,5 +1,5 @@
 ---
-date: '2017-03-01'
+date: '2018-09-01'
 title: '3D Product Page'
 image: ''
 github: ''

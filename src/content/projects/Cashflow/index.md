@@ -3,7 +3,7 @@ date: '2016-11-01'
 title: 'CashFlow'
 image: ''
 github: ''
-external: 'https://play.google.com/store/apps/details?id=com.starry.management&hl=en_US'
+external: 'https://play.google.com/store/apps/details?id=appinventor.ai_jgonzalez25.CashFlow'
 tech:
   - Android
   - Java

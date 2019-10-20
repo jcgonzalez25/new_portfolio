@@ -1,9 +1,9 @@
 ---
-date: '2018-04-20'
-title: 'Scroll Project'
+date: '2018-12-20'
+title: 'Company Scroll Project'
 image: ''
-github: 'https://github.com/bchiang7/spotify-top-tracks-2017'
-external: ''
+github: ''
+external: 'https://nijoinc.herokuapp.com'
 tech:
   - JS
   - HTML
@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-Utilizing Scroll magic demo to make a landing page to company much more apealing. Utilizing scroll animation heavily
+Utilizing Scroll magic demo to make a landing page to company much more apealing. Use on safari for full experience.

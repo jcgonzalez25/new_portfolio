@@ -2,20 +2,20 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - Web Technologies JavaScript(ES6+) HTML CSS
+  - JavaScript(ES6+)
+  - HTML CSS
   - Bootstrap
   - React
   - Redux
   - Node.js(express)
-  - C# specifically Asp.net MVC
+  - Asp.net MVC
   - Python(numpy,pandas)
   - Mysql
   - MongoDB
-  - Linux/Unix (grep,sed,awk,shell scripting)
+  - Linux(Shell Scripting)
   - Object Oriented Programming
-  - Procedural Programming
-  - git version control
-  - Networking(TCP,IP)
+  - Version Control
+  - Networking(TCP,UDP)
 ---
 
 Welcome, my name is JC Gonzalez, a software engineer based in Carbondale, IL. A graduate from [Indiana State University](https://cs.indstate.edu/), with a B.A. and M.S. in Computer Science.

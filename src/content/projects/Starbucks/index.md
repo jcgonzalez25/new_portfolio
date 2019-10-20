@@ -1,5 +1,5 @@
 ---
-date: '2018-05-01'
+date: '2017-11-01'
 title: 'Starbucks Locator Application'
 image: ''
 github: 'https://github.com/jcgonzalez25/Starbucks-Application'

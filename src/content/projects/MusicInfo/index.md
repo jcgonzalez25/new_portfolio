@@ -1,5 +1,5 @@
 ---
-date: '2017-11-01'
+date: '2018-05-01'
 title: 'Music Info Application'
 image: ''
 github: 'https://github.com/jcgonzalez25/Music_Info_App'
