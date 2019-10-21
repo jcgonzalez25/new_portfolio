@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-Manipulating TCP connections, utilizing networking software learned from my networking class. Host Pinger.
+Manipulating TCP connections, utilizing networking software learned from my networking class.

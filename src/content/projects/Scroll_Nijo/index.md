@@ -1,13 +1,13 @@
 ---
 date: '2018-12-20'
-title: 'Company Scroll Project'
+title: 'Company Landing Page'
 image: ''
 github: ''
 external: 'https://nijoinc.herokuapp.com'
 tech:
-  - JS
+  - js
   - HTML
-  - CSS
+  - CSS3
 show: 'true'
 ---
 

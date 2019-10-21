@@ -7,5 +7,5 @@ range: 'Aug - May 2019'
 url: 'https://cs.indstate.edu/'
 ---
 
-- Developed Software to help Computer Science department organize new incoming graduated students.
-- Application implemented security standards so that incoming students could be tracked by cs department. Implementing techniques to prevent sensitve information being leaked.
+- Developed Software to help Computer Science department organize incoming graduate students.
+- Application implemented security standards. Implementing techniques to prevent sensitve information being leaked.

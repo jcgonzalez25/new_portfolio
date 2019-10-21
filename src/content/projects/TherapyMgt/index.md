@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-Contributed to backend integration to an open source project. Integrated Mysql backend to be connected to to a react front-end. Implemening test scripts as well.
+Contributed backend integration to an open source project. Integrated Mysql backend to be connected to to a react front-end. Implemening test scripts as well.

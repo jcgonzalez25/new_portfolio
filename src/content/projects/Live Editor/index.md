@@ -2,8 +2,8 @@
 date: '2015-10-01'
 title: 'Live Text Editor'
 image: ''
-github: ''
-external: 'https://github.com/jcgonzalez25/live-class-editor'
+github: 'https://github.com/jcgonzalez25/live-class-editor'
+external: ''
 tech:
   - Node
   - Websockets

@@ -9,4 +9,4 @@ url: 'https://cs.indstate.edu/'
 
 - Task Automation and effeciency software for the computer science department.
 - Worked on coming up with software to help computer science students perform better. Heavily utilizing studied data science methods.
-- Designing software that targeted both computer science students as well as instructors
+- Software that targeted both computer science students as well as instructors

@@ -12,4 +12,4 @@ tech:
 show: 'true'
 ---
 
-A web app for visualizing company's inventory system as well checking customer data. Needs were upon request. Fake acount created login as admin, and password admin, to see fake data of how the system works. Has many feature relative to the company's needs. Ive created a fake admin accout to view what the admin panel looks like. Use admin as the both password and user.
+A web app for visualizing company's data and communicating between employees. Has many feature's relative to the company's needs. I've created a fake admin accout to view what the admin panel looks like. Enter 'admin' as both password and user.

@@ -9,4 +9,4 @@ tech:
 show: 'true'
 ---
 
-Creating the connect 4 game with only CSS,advancing my css skills by learning CSS3 new features
+Creating the connect 4 game with only CSS, advancing my css skills by learning CSS3 new features

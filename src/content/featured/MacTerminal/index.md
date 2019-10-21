@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Web Mac OS Terminal Clone'
+title: 'Online Mac Terminal'
 cover: './term.png'
 github: 'https://github.com/jcgonzalez25/mac_terminal'
 external: 'https://macterm.herokuapp.com'
@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-Cloned a mac terminal, runs a couple of bash commands. Including: ls,cwd,pwd, and more. Visit link to view more.
+Cloned a mac terminal, runs a couple of bash commands. Including: cd,mkdir,touch,ls and more. Visit link to try it out.

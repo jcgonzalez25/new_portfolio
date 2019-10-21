@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-Animation script that shows in animation on a bash command line.
+Animation for the command line, influenced by matrix animation. Visit github link to see a live demo in action.

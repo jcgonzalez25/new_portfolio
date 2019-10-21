@@ -1,5 +1,5 @@
 ---
-date: '2017-08-01'
+date: '2015-08-01'
 title: 'Spotify U.I.'
 image: ''
 github: 'https://github.com/jcgonzalez25/spotify_ui'

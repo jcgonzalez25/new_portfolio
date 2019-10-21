@@ -7,6 +7,6 @@ range: 'Jun - Aug 2017'
 url: 'https://shrouded-depths-75061.herokuapp.com'
 ---
 
-- Consulted with owner to fulfill propiatary business application software
-- Came up with System designed methods to handle large amounts inventory data going through the company.
-- Developed a deep understanding of fulfilling business needs in terms of software
+- Consulted with owner to fulfill propiatary business application software.
+- Came up with System design methods to handle large amounts inventory data going through the company.
+- Developed a deep understanding of fulfilling business needs in terms of software.

@@ -7,8 +7,8 @@ external: 'https://musinfo.herokuapp.com/'
 tech:
   - React
   - Bootstrap
-  - musiclyapi
+  - api
 show: 'true'
 ---
 
-Getting Music through musicly API for, getting general information for a certain application.
+Getting Music information through music data API. users can get general information for a specified song as well as other features.
