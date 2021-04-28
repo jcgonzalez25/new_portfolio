@@ -18,10 +18,8 @@ skills:
   - TCP,UDP
 ---
 
-Welcome, my name is JC Gonzalez, a software engineer based in Carbondale, IL. I'm a graduate from [Indiana State University](https://cs.indstate.edu/), with a B.S. and M.S. in Computer Science.
+Welcome, my name is JC Gonzalez, a Software Engineer based in Carbondale, IL. I'm a graduate from [Indiana State University](https://cs.indstate.edu/), with a B.S. and M.S. in Computer Science.
 
 Working on numerous projects I've learned to have a new respect for software development. Passionate about clean code, collaborating effectivley, and designing effeciently, is a result of such respect.
-
-Please note that most of my demo projects on here are hosted on heroku, this will result in slow load times.
 
 Here's a few technologies I've worked with recently:

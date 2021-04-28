@@ -9,7 +9,7 @@ module.exports = {
   googleAnalyticsID: '',
   googleVerification: '',
   name: 'JC Gonzalez',
-  location: 'Carbondale, IL',
+  location: 'Remote',
   email: 'devgonzalez25@gmail.com',
   github: 'https://github.com/jcgonzalez25',
   twitterHandle: '',
@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com',
+      url: 'www.linkedin.com/in/jcgonzalezriv',
     },
     {
       name: 'Codepen',
