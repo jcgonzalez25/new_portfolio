@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'www.linkedin.com/in/jcgonzalezriv',
+      url: 'https://www.linkedin.com/in/jcgonzalezriv',
     },
     {
       name: 'Codepen',
