@@ -1,25 +1,23 @@
 ---
-title: 'About Me'
-avatar: './me.jpg'
+title: 'Welcome!'
+avatar: './me.png'
 skills:
-  - JavaScript(ES6+)
-  - HTML(5) CSS(3)
-  - Bootstrap
-  - React
+  - Typescript
+  - Next.js
   - Redux
-  - Node.js(express)
-  - Asp.net MVC
-  - Python(numpy,pandas)
-  - Mysql
+  - Tailwind
+  - React
+  - Node
+  - PHP
+  - Laravel
+  - Java Spring
+  - Azure Cloud
   - MongoDB
   - Linux(Shell Scripting)
-  - O.O. Programming
-  - Version Control
-  - TCP,UDP
 ---
 
-Welcome, my name is JC Gonzalez, a Software Engineer based in Carbondale, IL. I'm a graduate from [Indiana State University](https://cs.indstate.edu/), with a B.S. and M.S. in Computer Science.
+I am JC Gonzalez, a **Lead Software Engineer** based in Naperville, IL, with a strong academic foundation from [Indiana State University](https://cs.indstate.edu/), where I earned both my B.S. and M.S. in Computer Science.
 
-Working on numerous projects I've learned to have a new respect for software development. Passionate about clean code, collaborating effectivley, and designing effeciently, is a result of such respect.
+With a wealth of experience in software development, I am deeply committed to the principles of clean code, effective collaboration, and efficient design. My leadership style emphasizes these values, ensuring that every project I oversee is executed with precision and excellence.
 
-Here's a few technologies I've worked with recently:
+Here are some of the technologies I have recently worked with:
