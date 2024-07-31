@@ -8,7 +8,7 @@ tech:
   - React.js
   - Mysql
   - Express
-show: 'true'
+show: 'false'
 ---
 
 HVAC tools ecommerce shopping cart implemented with authentication and user account integration.

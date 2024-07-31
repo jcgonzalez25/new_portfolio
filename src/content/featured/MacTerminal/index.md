@@ -8,7 +8,7 @@ tech:
   - React.js
   - Html
   - CSS
-show: 'true'
+show: 'false'
 ---
 
 Cloned a mac terminal, runs a couple of bash commands. Including: cd,mkdir,touch,ls and more. Visit link to try it out.

@@ -10,7 +10,7 @@ tech:
   - MongoDb
   - Express
   - Node
-show: 'true'
+show: 'false'
 ---
 
 System used to communicate between Indiana State's Computer Science instructors and potential Computer Science students. Backend concentrated, implenting security features as well as scalability.
